@@ -1,0 +1,67 @@
+Jon Ujkani
+Esslinggasse 16/2
+1010
+Wien
+Austria
+
+IT SERVICE LEAD AND CONSULTANT
+
+Summary
+
+Experienced IT Service Lead and Global IT consultant with focus on ITSM Process throughout the life-cycle and its partnership with ITSM Tooling Systems. Jon has over 20 years of experience in IT with a focus on running service delivery.
+
+
+Professional Experience
+
+IT Service Manager Jun 2016 to Oct 2020
+Modis, Vienna, Austria
+
+Create the company service desk and assess team performance
+
+In charge of developing and delivering strategies and solutions including the identification of business cases, architecture, and choices of technology platforms.
+
+In this capacity, I led and participated in IT Service Management and IT Process improvement activities, helping build inexpensive IT Services
+
+
+Conducted the team responsible to implement the ServiceNow PPS suite along with Team Development into the organization's ServiceNow Application stack
+
+Conducted an effort to migrate a ServiceNow instance in use by one of our business units to the Global Instance ServiceNow Implementation - Service Desk, Incident, Problem, Knowledge / Zurich Insurance
+Train and support staff as required
+
+Applications Service Manager Mar 2015 to Jun 2016
+Zurich Insurance Company Ltd, Vienna, Austria
+
+In charge of the support for the cloud based Service Management Solution (ServiceNow) within the Global Operations Technology and Infrastructure group at Zurich
+
+Conducted an effort to transition from a BMC Remedy Solution to an internally supported and Managed ServiceNow Instance to support Global IT Operations
+
+Transitioning an in-sourced business unit from internal HP Service Manager and Asset Manager platforms to the Global instance of ServiceNow
+
+Transitioned from a vendor provided BMC Remedy Solution to a company supported ServiceNow Instance
+
+Conducted a program for Change Management Implementation
+
+Observed overall support desk tickets to improve client support
+
+
+Senior Consultant Oct 2013 to 2015
+Fruition Partners, Vienna, Austria
+
+In charge of developing and delivering strategies and solutions for IT Service Management
+
+In charge of assisting my clients in IT transformation including the identification of business needs, architecture, and choices of technology platforms
+
+
+ITIL Service Management Process Manager May 2000 to Dec 2014
+Williams IT Service Center at Williams Company, Vienna, Austria
+
+In charge of the day to day operations and process improvements for the Williams Information Technology Service Center
+
+ITIL Process Owner for Incident, Problem, and Knowledge Management
+
+In charge of the Service Level Management and coordination of support activities for Global Network Operations at American Express
+
+Education
+
+Bachelor of Computer Sciences 1995 to 2000
+University of Vienna, Vienna, Austria
